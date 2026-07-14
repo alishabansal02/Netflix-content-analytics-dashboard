@@ -69,4 +69,4 @@ Python Programming · Jupyter Notebook Documentation
 
 ## About
 
-Prepared by **[Your Name]**, Data Analytics Consultant. See Section 15 of the PDF report for full bio and contact details.
+Prepared by **Alisha Bansal**, Data Analytics Consultant. See Section 15 of the PDF report for full bio and contact details.
